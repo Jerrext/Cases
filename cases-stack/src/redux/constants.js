@@ -1,0 +1,10 @@
+export const INCREASE_COUNT = "INCREASE_COUNT";
+export const DECREASE_COUNT = "DECREASE_COUNT";
+export const GET_SINGLE_POST = "GET_SINGLE_POST";
+export const SET_SINGLE_POST = "SET_SINGLE_POST";
+export const SET_SINGLE_POST_ERROR = "SET_SINGLE_POST_ERROR";
+export const GET_POSTS = "GET_POSTS";
+export const SET_POSTS = "SET_POSTS";
+export const SET_ALBUMS = "SET_ALBUMS";
+export const SET_POSTS_ERROR = "SET_POSTS_ERROR";
+export const SET_ALBUMS_ERROR = "SET_ALBUMS_ERROR";
