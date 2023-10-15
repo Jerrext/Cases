@@ -1,0 +1,16 @@
+.header {
+  height: 100px;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  background-color: #181818;
+}
+
+.navList {
+  display: flex;
+  gap: 50px;
+
+  a {
+    color: #fff;
+  }
+}
